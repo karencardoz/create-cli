@@ -1,0 +1,1 @@
+console.log('written using fs modules')
